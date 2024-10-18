@@ -1,6 +1,6 @@
 ---
 title: Second Mlops Project  # Replace this with the name of your Space
-emoji:                       # Choose an emoji for your project
+emoji: 😁                      # Choose an emoji for your project
 colorFrom: red               # Starting gradient color for the card
 colorTo: yellow                # Ending gradient color for the card
 sdk: gradio                   # The SDK you're using, e.g., gradio, streamlit, etc.
